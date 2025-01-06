@@ -20,26 +20,36 @@ Sesuai dengan tugas diatas, saya sudah mengerjakan kode dengan tema kode belanja
 
 1. Membuat file dan class terpisah
 
-Agar program berjalan dengan baik, class harus terpisah dengan dari class yang lain dengan file yang berbeda juga. berikut file dan kelasnya: file pendataan dengan class data, file inputan dengan class view, file utama dengan file process
+Agar program berjalan dengan baik, class harus terpisah dengan dari class yang lain dengan file yang berbeda juga. berikut file dan kelasnya: 1. file pendataan dengan class data, 2. file inputan dengan class view, 3. file utama dengan file process
 
 ![Desain tanpa judul](https://github.com/user-attachments/assets/15e933b5-3b99-4cac-883e-25e9a06478ba)
 
 2. Modular Tampil dan penjalannya
 
-penjelasan dibagi 2:
+Buat class data di file pendataan dengan fungsi __init__ yang berisi self.Total dan self.Belanja lalu penjelasan setiap file dibagi 2:
 
 - file pendataan
+
+Modular Tampil digunakan untuk menampilkan semua barang yang ingin di beli
+
+![2](https://github.com/user-attachments/assets/de3aed28-2943-4d8c-8a80-cb4ad020c9cc)
+
+(ada yang tidak terlihat jadi nanti isinya mirip sama yang pilih)
 
 
 - file inputan
 
 3. Mudular Pilih dan penjalannya
 
+penjelasan dibagi 2:
+
 - file pendataan
 
 - file inputan
 
 4. Modular Struk dan penjalannya
+
+penjelasan dibagi 2:
 
 - file pendataan
 
