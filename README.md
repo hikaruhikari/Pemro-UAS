@@ -16,4 +16,6 @@ Assalamualaikum Warahmatullahi Wabarakatuh, perkenalkan nama saya Faiq Zainal Ri
 
 KODE BELANJA
 
-Sesuai dengan tugas diatas, saya sudah mengerjakan kode dengan tema kode belanja yaitu sudut pandang pembeli saat membeli barang
+Sesuai dengan tugas diatas, saya sudah mengerjakan kode dengan tema kode belanja yaitu sudut pandang pembeli saat membeli barang saat berbelanja. Oke tanpa basa basi mari kita mulai:
+
+1. 
