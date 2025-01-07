@@ -12,7 +12,9 @@ Buatlah program sederhana dengan ketentuan:
 
 • Program menapilkan hasil (dapat berupa table view)
 
-Assalamualaikum Warahmatullahi Wabarakatuh, perkenalkan nama saya Faiq Zainal Ridho dengan NIM 312410484 yang berada di kelas TI.24.A.5 akan menjelaskan menjelaskan kode program yang diperintahkan oleh bapak dosen pengampu. Berikut penjelasannya:
+Assalamualaikum Warahmatullahi Wabarakatuh
+
+perkenalkan nama saya Faiq Zainal Ridho dengan NIM 312410484 yang berada di kelas TI.24.A.5 akan menjelaskan menjelaskan kode program yang diperintahkan oleh bapak dosen pengampu. Berikut penjelasannya:
 
 KODE BELANJA
 
@@ -94,4 +96,12 @@ Berikut hasil program yang di buat
 
 7. Flowchart
 
+![flow   diagram UAS](https://github.com/user-attachments/assets/bd7d13f6-af69-475a-89a6-53eb5123eba3)
+
 8. Diagram
+
+![flow   diagram UAS (1)](https://github.com/user-attachments/assets/6ebea685-f508-4698-90be-ec75a67f689a)
+
+Inilah semua tugas yang saya kerjakan, saya berterime kasih kepada bapak dosen pengampu Bapak Agung Nugroho, S.Kom., M.Kom. karena sudah mengajarkan kami selam 1 semester dan mohon maaf jika ada yang salah baik dari tugas mingguan maupun tugas UAS ini dan izin pamit undur diri
+
+Wassalamualaikum Warahmatullahi wabarakatuh
